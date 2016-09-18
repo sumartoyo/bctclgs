@@ -1,0 +1,30 @@
+body {
+    min-width: 1300px;
+}
+
+#map {
+    float: left;
+    width: 640px;
+}
+
+#legend {
+    margin-left: 690px;
+}
+
+#legend > img {
+    display: block;
+    float: left;
+    margin-right: 15px;
+}
+
+#legend h2 {
+    font-weight: normal;
+}
+
+#clubs input, #clubs label, #clubs img {
+    vertical-align: middle;
+}
+
+#clubs img {
+    height: 100px;
+}
